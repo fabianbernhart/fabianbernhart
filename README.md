@@ -25,14 +25,9 @@ I'm an 18-year-old software developer with a passion for a wide array of fields 
   <img alt="Poetry Badge" src="https://img.shields.io/badge/Poetry-%233B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D">
   <img alt="Vuetify Badge" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF">
   <img alt="Dockerk Badge" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-</span>
-
-### 🔔 Testing
-<span>
   <img alt="Jest Badge" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white">
   <img alt="Cypress Badge" src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e">
 </span>
-
 
 ### TOOLS
 
