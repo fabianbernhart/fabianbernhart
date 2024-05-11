@@ -1,5 +1,4 @@
-# About Me
-## 👋 Hi, I’m Fabian Bernhart
+# 👋 Hi, I’m Fabian Bernhart
 
 ## About Me
 
