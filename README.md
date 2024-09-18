@@ -1,4 +1,4 @@
-# 👋 Hey i am Fabian
+## About me
 
 ### 🚀 Main Skills
 <span>
